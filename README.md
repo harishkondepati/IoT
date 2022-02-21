@@ -1,13 +1,13 @@
-New Blynk, IR & Manual Switches controlled compact home automation
-Components used
-ESP32 Module 
-5 Volts Relay x 4 
-Hi-Link 5 volts Power Supply 
-AMS1117 3.3V regulator IC 
-Couple of resistors – 10kohms & 330 ohms
-Two pin terminal connectors
-BC547 transistor 
-1N4007 diodes x 4 
-Push button
-On Off button
+<h1>New Blynk, IR & Manual Switches controlled compact home automation</h1><br>
+<h2>Components used</h2><br>
+ESP32 Module <br>
+5 Volts Relay x 4<br> 
+Hi-Link 5 volts Power Supply<br> 
+AMS1117 3.3V regulator IC <br>
+Couple of resistors – 10kohms & 330 ohms<br>
+Two pin terminal connectors<br>
+BC547 transistor <br>
+1N4007 diodes x 4 <br>
+Push button<br>
+On Off button<br>
 
